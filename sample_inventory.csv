@@ -1,0 +1,11 @@
+sku,name,category,quantity,shelf_life_days,expiry_date,seasonality_tag,last_sold_date
+1001,Chocolate Bar,Snacks,120,180,2025-10-15,Summer,2025-08-01
+1002,Winter Jacket,Apparel,30,365,2026-01-10,Winter,2025-02-15
+1003,Sunscreen Lotion,Personal Care,50,365,2025-09-30,Summer,2025-06-20
+1004,Apple Juice,Beverages,80,90,2025-09-28,All,2025-09-01
+1005,Notebook,Stationery,200,730,2027-09-24,BackToSchool,2025-09-10
+1006,Holiday Lights,Decor,60,365,2025-12-20,Holiday,2024-12-25
+1007,Face Mask,Personal Care,500,365,2026-03-01,All,2025-08-15
+1008,Flip Flops,Apparel,75,365,2026-05-01,Summer,2025-07-10
+1009,Hot Cocoa,Beverages,40,180,2025-12-01,Winter,2024-12-10
+1010,Hand Sanitizer,Personal Care,150,365,2026-01-01,All,2025-09-05
